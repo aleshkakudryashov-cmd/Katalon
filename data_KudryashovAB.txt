@@ -1,0 +1,25 @@
+{
+  "creditForm": {
+    "url": "http://creditcalculator.pointschool.ru/credit#",
+    "desiredAmount": "100000",
+    "initialPayment": "0",
+    "creditTerm": "12",
+    "lastName": "Ярцова",
+    "firstName": "Злата",
+    "middleName": "Васильевна",
+    "passportNumber": "4300 542277",
+    "passportIssuedBy": "Нижегородское ГОВД",
+    "passportDate": "11.11.2011",
+    "education": "высшее",
+    "workExperienceTotal": "5-10 лет",
+    "workExperienceLast": "более 3 лет",
+    "incomeProof": "Да",
+    "workRegionMatch": "Да",
+    "netIncome": "35000",
+    "registrationRegionMatch": "Да",
+    "hasCriminalRecord": "Нет",
+    "hasCar": "Да",
+    "hasProperty": "Да",
+    "expectedResult": "Результаты расчета"
+  }
+}
